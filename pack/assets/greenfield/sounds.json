@@ -1,0 +1,777 @@
+{
+    "subway.city.ashfield_west_approach" : {
+        "sounds": [
+            "greenfield:subway/city/ashfield_west_approach"
+        ]
+    },
+    "subway.city.clinton_mall_approach": {
+        "sounds": [
+            "greenfield:subway/city/clinton_mall_approach"
+        ]
+    },
+    "subway.city.genmar_stadium_approach": {
+        "sounds": [
+            "greenfield:subway/city/genmar_stadium_approach"
+        ]
+    },
+    "subway.city.komplex_approach": {
+        "sounds": [
+            "greenfield:subway/city/komplex_approach"
+        ]
+    },
+    "subway.city.downtown_approach": {
+        "sounds": [
+            "greenfield:subway/city/downtown_approach"
+        ]
+    },
+    "subway.city.union_approach": {
+        "sounds": [
+            "greenfield:subway/city/union_approach"
+        ]
+    },
+    "subway.city.market_approach": {
+        "sounds": [
+            "greenfield:subway/city/market_approach"
+        ]
+    },
+    "subway.city.eagle_stadium_approach": {
+        "sounds": [
+            "greenfield:subway/city/eagle_stadium_approach"
+        ]
+    },
+    "subway.city.old_georgetown_approach": {
+        "sounds": [
+            "greenfield:subway/city/old_georgetown_approach"
+        ]
+    },
+    "subway.city.georgetown_interchange_approach": {
+        "sounds": [
+            "greenfield:subway/city/georgetown_interchange_approach"
+        ]
+    },
+    "subway.city.riverwood_approach": {
+        "sounds": [
+            "greenfield:subway/city/riverwood_approach"
+        ]
+    },
+    "subway.city.dawson_approach": {
+        "sounds": [
+            "greenfield:subway/city/dawson_approach"
+        ]
+    },
+    "subway.city.whitestone_south_approach": {
+        "sounds": [
+            "greenfield:subway/city/whitestone_south_approach"
+        ]
+    },
+    "subway.city.whitestone_north_approach": {
+        "sounds": [
+            "greenfield:subway/city/whitestone_north_approach"
+        ]
+    },
+    "subway.city.ashfield_west_wb" : {
+        "sounds": [
+            "greenfield:subway/city/ashfield_west_wb"
+        ]
+    },
+    "subway.city.clinton_mall_wb": {
+        "sounds": [
+            "greenfield:subway/city/clinton_mall_wb"
+        ]
+    },
+    "subway.city.genmar_stadium_wb": {
+        "sounds": [
+            "greenfield:subway/city/genmar_stadium_wb"
+        ]
+    },
+    "subway.city.komplex_wb": {
+        "sounds": [
+            "greenfield:subway/city/komplex_wb"
+        ]
+    },
+    "subway.city.downtown_wb": {
+        "sounds": [
+            "greenfield:subway/city/downtown_wb"
+        ]
+    },
+    "subway.city.union_wb": {
+        "sounds": [
+            "greenfield:subway/city/union_wb"
+        ]
+    },
+    "subway.city.market_eb": {
+        "sounds": [
+            "greenfield:subway/city/market_eb"
+        ]
+    },
+    "subway.city.eagle_stadium_eb": {
+        "sounds": [
+            "greenfield:subway/city/eagle_stadium_eb"
+        ]
+    },
+    "subway.city.old_georgetown_eb": {
+        "sounds": [
+            "greenfield:subway/city/old_georgetown_eb"
+        ]
+    },
+    "subway.city.georgetown_interchange_eb": {
+        "sounds": [
+            "greenfield:subway/city/georgetown_interchange_eb"
+        ]
+    },
+    "subway.city.riverwood_eb": {
+        "sounds": [
+            "greenfield:subway/city/riverwood_eb"
+        ]
+    },
+    "subway.city.dawson_eb": {
+        "sounds": [
+            "greenfield:subway/city/dawson_eb"
+        ]
+    },
+    "subway.city.whitestone_south_eb": {
+        "sounds": [
+            "greenfield:subway/city/whitestone_south_eb"
+        ]
+    },
+    "subway.city.whitestone_north_eb": {
+        "sounds": [
+            "greenfield:subway/city/whitestone_north_eb"
+        ]
+    },
+    "subway.city.ashfield_west_eb" : {
+        "sounds": [
+            "greenfield:subway/city/ashfield_west_eb"
+        ]
+    },
+    "subway.city.clinton_mall_eb": {
+        "sounds": [
+            "greenfield:subway/city/clinton_mall_eb"
+        ]
+    },
+    "subway.city.genmar_stadium_eb": {
+        "sounds": [
+            "greenfield:subway/city/genmar_stadium_eb"
+        ]
+    },
+    "subway.city.komplex_eb": {
+        "sounds": [
+            "greenfield:subway/city/komplex_eb"
+        ]
+    },
+    "subway.city.downtown_eb": {
+        "sounds": [
+            "greenfield:subway/city/downtown_eb"
+        ]
+    },
+    "subway.city.union_eb": {
+        "sounds": [
+            "greenfield:subway/city/union_eb"
+        ]
+    },
+    "subway.city.market_wb": {
+        "sounds": [
+            "greenfield:subway/city/market_wb"
+        ]
+    },
+    "subway.city.eagle_stadium_wb": {
+        "sounds": [
+            "greenfield:subway/city/eagle_stadium_wb"
+        ]
+    },
+    "subway.city.old_georgetown_wb": {
+        "sounds": [
+            "greenfield:subway/city/old_georgetown_wb"
+        ]
+    },
+    "subway.city.georgetown_interchange_wb": {
+        "sounds": [
+            "greenfield:subway/city/georgetown_interchange_wb"
+        ]
+    },
+    "subway.city.riverwood_wb": {
+        "sounds": [
+            "greenfield:subway/city/riverwood_wb"
+        ]
+    },
+    "subway.city.dawson_wb": {
+        "sounds": [
+            "greenfield:subway/city/dawson_wb"
+        ]
+    },
+    "subway.city.whitestone_south_wb": {
+        "sounds": [
+            "greenfield:subway/city/whitestone_south_wb"
+        ]
+    },
+    "subway.city.whitestone_north_wb": {
+        "sounds": [
+            "greenfield:subway/city/whitestone_north_wb"
+        ]
+    },
+    "subway.city.ashfield_west_standing" : {
+        "sounds": [
+            "greenfield:subway/city/ashfield_west_standing"
+        ]
+    },
+    "subway.city.clinton_mall_standing": {
+        "sounds": [
+            "greenfield:subway/city/clinton_mall_standing"
+        ]
+    },
+    "subway.city.genmar_stadium_standing": {
+        "sounds": [
+            "greenfield:subway/city/genmar_stadium_standing"
+        ]
+    },
+    "subway.city.komplex_standing": {
+        "sounds": [
+            "greenfield:subway/city/komplex_standing"
+        ]
+    },
+    "subway.city.downtown_standing": {
+        "sounds": [
+            "greenfield:subway/city/downtown_standing"
+        ]
+    },
+    "subway.city.union_standing": {
+        "sounds": [
+            "greenfield:subway/city/union_standing"
+        ]
+    },
+    "subway.city.market_standing": {
+        "sounds": [
+            "greenfield:subway/city/market_standing"
+        ]
+    },
+    "subway.city.eagle_stadium_standing": {
+        "sounds": [
+            "greenfield:subway/city/eagle_stadium_standing"
+        ]
+    },
+    "subway.city.old_georgetown_standing": {
+        "sounds": [
+            "greenfield:subway/city/old_georgetown_standing"
+        ]
+    },
+    "subway.city.georgetown_interchange_standing": {
+        "sounds": [
+            "greenfield:subway/city/georgetown_interchange_standing"
+        ]
+    },
+    "subway.city.riverwood_standing": {
+        "sounds": [
+            "greenfield:subway/city/riverwood_standing"
+        ]
+    },
+    "subway.city.dawson_standing": {
+        "sounds": [
+            "greenfield:subway/city/dawson_standing"
+        ]
+    },
+    "subway.city.whitestone_south_standing": {
+        "sounds": [
+            "greenfield:subway/city/whitestone_south_standing"
+        ]
+    },
+    "subway.city.whitestone_north_standing": {
+        "sounds": [
+            "greenfield:subway/city/whitestone_north_standing"
+        ]
+    },
+    "subway.ashfield.clinton_mall_approach_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/clinton_mall_approach_eb"
+        ]
+    },
+    "subway.ashfield.genmar_stadium_approach_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/genmar_stadium_approach_eb"
+        ]
+    },
+    "subway.ashfield.ashfield_central_approach_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_central_approach_eb"
+        ]
+    },
+    "subway.ashfield.ashfield_waterfront_approach_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_waterfront_approach_eb"
+        ]
+    },
+    "subway.ashfield.ashfield_east_approach_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_east_approach_eb"
+        ]
+    },
+    "subway.ashfield.ashfield_park_approach_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_park_approach_eb"
+        ]
+    },
+    "subway.ashfield.clinton_mall_approach_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/clinton_mall_approach_wb"
+        ]
+    },
+    "subway.ashfield.genmar_stadium_approach_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/genmar_stadium_approach_wb"
+        ]
+    },
+    "subway.ashfield.ashfield_central_approach_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_central_approach_wb"
+        ]
+    },
+    "subway.ashfield.ashfield_waterfront_approach_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_waterfront_approach_wb"
+        ]
+    },
+    "subway.ashfield.ashfield_east_approach_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_east_approach_wb"
+        ]
+    },
+    "subway.ashfield.ashfield_west_approach_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_west_approach_wb"
+        ]
+    },
+    "subway.ashfield.ashfield_west_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_west_eb"
+        ]
+    },
+    "subway.ashfield.clinton_mall_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/clinton_mall_eb"
+        ]
+    },
+    "subway.ashfield.genmar_stadium_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/genmar_stadium_eb"
+        ]
+    },
+    "subway.ashfield.ashfield_central_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_central_eb"
+        ]
+    },
+    "subway.ashfield.ashfield_waterfront_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_waterfront_eb"
+        ]
+    },
+    "subway.ashfield.ashfield_east_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_east_eb"
+        ]
+    },
+    "subway.ashfield.ashfield_park_eb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_park_eb"
+        ]
+    },
+    "subway.ashfield.ashfield_west_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_west_wb"
+        ]
+    },
+    "subway.ashfield.clinton_mall_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/clinton_mall_wb"
+        ]
+    },
+    "subway.ashfield.genmar_stadium_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/genmar_stadium_wb"
+        ]
+    },
+    "subway.ashfield.ashfield_central_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_central_wb"
+        ]
+    },
+    "subway.ashfield.ashfield_waterfront_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_waterfront_wb"
+        ]
+    },
+    "subway.ashfield.ashfield_east_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_east_wb"
+        ]
+    },
+    "subway.ashfield.ashfield_park_wb": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_park_wb"
+        ]
+    },
+    "subway.ashfield.ashfield_central.a": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_central_pa"
+        ]
+    },
+    "subway.ashfield.ashfield_central.b": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_central_pb"
+        ]
+    },
+    "subway.ashfield.ashfield_east.3": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_east_p3"
+        ]
+    },
+    "subway.ashfield.ashfield_east.4": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_east_p4"
+        ]
+    },
+    "subway.ashfield.ashfield_park.4": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_park_p4"
+        ]
+    },
+    "subway.ashfield.ashfield_waterfront.1": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_waterfront_p1"
+        ]
+    },
+    "subway.ashfield.ashfield_waterfront.2": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_waterfront_p2"
+        ]
+    },
+    "subway.ashfield.ashfield_west.3": {
+        "sounds": [
+            "greenfield:subway/ashfield/ashfield_west_p3"
+        ]
+    },
+    "subway.ashfield.clinton_mall.1": {
+        "sounds": [
+            "greenfield:subway/ashfield/clinton_mall_p1"
+        ]
+    },
+    "subway.ashfield.clinton_mall.2": {
+        "sounds": [
+            "greenfield:subway/ashfield/clinton_mall_p2"
+        ]
+    },
+    "subway.ashfield.genmar_stadium.1": {
+        "sounds": [
+            "greenfield:subway/ashfield/genmar_stadium_p1"
+        ]
+    },
+    "subway.ashfield.genmar_stadium.2": {
+        "sounds": [
+            "greenfield:subway/ashfield/genmar_stadium_p2"
+        ]
+    },
+    "subway.harbour.lincoln_port_wb": {
+    	"sounds": [
+	        "greenfield:subway/harbour/lincoln_port_wb"
+	    ]
+    },
+    "subway.harbour.mantaro_mall_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/mantaro_mall_wb"
+        ]
+    },
+    "subway.harbour.hall_street_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/hall_street_wb"
+        ]
+    },
+    "subway.harbour.bridge_street_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/bridge_street_wb"
+        ]
+    },
+    "subway.harbour.fort_franklin_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/fort_franklin_wb"
+        ]
+    },
+    "subway.harbour.barons_bar_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/barons_bar_wb"  
+        ]
+    },
+    "subway.harbour.westwood_wb": {
+    	"sounds": [
+	    "greenfield:subway/harbour/westwood_wb"
+	]
+    },
+    "subway.harbour.river_city_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/river_city_wb"
+        ]
+    },
+    "subway.harbour.river_city_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/river_city_eb_terminating"
+        ]
+    },
+    "subway.harbour.mantaro_mall_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/mantaro_mall_eb"
+        ]
+    },
+    "subway.harbour.hall_street_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/hall_street_eb"
+        ]
+    },
+    "subway.harbour.bridge_street_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/bridge_street_eb"
+        ]
+    },
+    "subway.harbour.bridge_street_eb.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/bridge_street_eb_ext"
+        ]
+    },
+    "subway.harbour.fort_franklin_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/fort_franklin_eb"
+        ]
+    },
+    "subway.harbour.fort_franklin_eb.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/fort_franklin_eb_ext"
+        ]
+    },
+    "subway.harbour.barons_bar_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/barons_bar_eb"  
+        ]
+    },
+    "subway.harbour.barons_bar_eb.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/barons_bar_eb_ext"
+        ]
+    },
+    "subway.harbour.westwood_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/westwood_eb"
+        ]
+    },
+    "subway.harbour.westwood_eb.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/westwood_eb_ext"
+        ]
+    },
+    "subway.harbour.mantaro_mall_approach_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/mantaro_mall_approach_wb"
+        ]
+    },
+    "subway.harbour.hall_street_approach_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/hall_street_approach_wb"
+        ]
+    },
+    "subway.harbour.bridge_street_approach_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/bridge_street_approach_wb"
+        ]
+    },
+    "subway.harbour.bridge_street_approach_wb.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/bridge_street_approach_wb_ext"
+        ]
+    },
+    "subway.harbour.fort_franklin_approach_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/fort_franklin_approach_wb"
+        ]
+    },
+    "subway.harbour.barons_bar_approach_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/barons_bar_approach_wb"  
+        ]
+    },
+    "subway.harbour.westwood_approach_wb": {
+        "sounds": [
+            "greenfield:subway/harbour/westwood_approach_wb"
+        ]
+    },
+    "subway.harbour.lincoln_port_approach_eb": {
+    	"sounds": [
+	        "greenfield:subway/harbour/lincoln_port_approach_eb"
+	    ]
+    },
+    "subway.harbour.mantaro_mall_approach_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/mantaro_mall_approach_eb"
+        ]
+    },
+    "subway.harbour.hall_street_approach_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/hall_street_approach_eb"
+        ]
+    },
+    "subway.harbour.bridge_street_approach_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/bridge_street_approach_eb"
+        ]
+    },
+    "subway.harbour.bridge_street_approach_eb.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/bridge_street_approach_eb_ext"
+        ]
+    },
+    "subway.harbour.fort_franklin_approach_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/fort_franklin_approach_eb"
+        ]
+    },
+    "subway.harbour.fort_franklin_approach_eb.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/fort_franklin_approach_eb_ext"
+        ]
+    },
+    "subway.harbour.barons_bar_approach_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/barons_bar_approach_eb"  
+        ]
+    },
+    "subway.harbour.barons_bar_approach_eb.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/barons_bar_approach_eb_ext"
+        ]
+    },
+    "subway.harbour.river_city_approach_eb": {
+        "sounds": [
+            "greenfield:subway/harbour/river_city_approach_eb"
+        ]
+    },
+    "subway.harbour.lincoln_port.1": {
+    	"sounds": [
+            "greenfield:subway/harbour/lincoln_port_p1"
+        ]
+    },
+    "subway.harbour.mantaro_mall.3": {
+        "sounds": [
+            "greenfield:subway/harbour/mantaro_mall_p3"
+        ]
+    },
+    "subway.harbour.mantaro_mall.4": {
+        "sounds": [
+            "greenfield:subway/harbour/mantaro_mall_p4"
+        ]
+    },
+    "subway.harbour.hall_street.3": {
+        "sounds": [
+            "greenfield:subway/harbour/hall_street_p3"
+        ]
+    },
+    "subway.harbour.hall_street.4": {
+        "sounds": [
+            "greenfield:subway/harbour/hall_street_p4"
+        ]
+    },
+    "subway.harbour.bridge_street.3": {
+        "sounds": [
+            "greenfield:subway/harbour/bridge_street_p3"
+        ]
+    },
+    "subway.harbour.bridge_street.4": {
+        "sounds": [
+            "greenfield:subway/harbour/bridge_street_p4"
+        ]
+    },
+    "subway.harbour.bridge_street.4.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/bridge_street_p4_ext"
+        ]
+    },
+    "subway.harbour.fort_franklin.3": {
+        "sounds": [
+            "greenfield:subway/harbour/fort_franklin_p3"
+        ]
+    },
+    "subway.harbour.fort_franklin.4": {
+        "sounds": [
+            "greenfield:subway/harbour/fort_franklin_p4"
+        ]
+    },
+    "subway.harbour.fort_franklin.4.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/fort_franklin_p4_ext"
+        ]
+    },
+    "subway.harbour.barons_bar.1": {
+        "sounds": [
+            "greenfield:subway/harbour/barons_bar_p1"
+        ]
+    },
+    "subway.harbour.barons_bar.2": {
+        "sounds": [
+            "greenfield:subway/harbour/barons_bar_p2"
+        ]
+    },
+    "subway.harbour.barons_bar.2.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/barons_bar_p2_ext"
+        ]
+    },
+    "subway.harbour.westwood.1": {
+        "sounds": [
+            "greenfield:subway/harbour/westwood_p1"
+        ]
+    },
+    "subway.harbour.westwood.2": {
+        "sounds": [
+            "greenfield:subway/harbour/westwood_p2"
+        ]
+    },
+    "subway.harbour.westwood.2.ext": {
+        "sounds": [
+            "greenfield:subway/harbour/westwood_p2_ext"
+        ]
+    },
+    "subway.harbour.river_city.a": {
+        "sounds": [
+            "greenfield:subway/harbour/river_city_pa"
+        ]
+    },
+    "subway.harbour.river_city.b": {
+        "sounds": [
+            "greenfield:subway/harbour/river_city_pb"
+        ]
+    },
+    "subway.stations.whitestone_south.city_line_wb": {
+    	"sounds": [
+	    "greenfield:subway/stations/whitestone_south/city_line_wb"
+	]
+    },
+    "subway.stations.whitestone_south.city_line_eb": {
+    	"sounds": [
+	    "greenfield:subway/stations/whitestone_south/city_line_eb"
+	]
+    },
+    "subway.stations.whitestone_south.southern_line_wb": {
+    	"sounds": [
+	    "greenfield:subway/stations/whitestone_south/southern_line_wb"
+	]
+    },
+    "subway.stations.whitestone_south.southern_line_eb": {
+    	"sounds": [
+	    "greenfield:subway/stations/whitestone_south/southern_line_eb"
+	]
+    },
+    "subway.trains.k_stock.doors_open": {
+        "sounds": [
+            "greenfield:subway/trains/k_stock/class_387_open"
+        ]
+    },
+    "subway.trains.k_stock.doors_close": {
+        "sounds": [
+            "greenfield:subway/trains/k_stock/class_387_close"
+        ]
+    }
+}

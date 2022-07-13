@@ -1,0 +1,506 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/tallie/Git/gta-resources/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+0	pack/assets/greenfield/sounds.json	/^	        "greenfield:subway\/harbour\/lincoln_port_approach_eb"$/;"	s	array:subway.harbour.lincoln_port_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^	        "greenfield:subway\/harbour\/lincoln_port_wb"$/;"	s	array:subway.harbour.lincoln_port_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^	    "greenfield:subway\/harbour\/westwood_wb"$/;"	s	array:subway.harbour.westwood_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^	    "greenfield:subway\/stations\/whitestone_south\/city_line_eb"$/;"	s	array:subway.stations.whitestone_south.city_line_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^	    "greenfield:subway\/stations\/whitestone_south\/city_line_wb"$/;"	s	array:subway.stations.whitestone_south.city_line_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^	    "greenfield:subway\/stations\/whitestone_south\/southern_line_eb"$/;"	s	array:subway.stations.whitestone_south.southern_line_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^	    "greenfield:subway\/stations\/whitestone_south\/southern_line_wb"$/;"	s	array:subway.stations.whitestone_south.southern_line_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_central_approach_eb"$/;"	s	array:subway.ashfield.ashfield_central_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_central_approach_wb"$/;"	s	array:subway.ashfield.ashfield_central_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_central_eb"$/;"	s	array:subway.ashfield.ashfield_central_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_central_pa"$/;"	s	array:subway.ashfield.ashfield_central.a.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_central_pb"$/;"	s	array:subway.ashfield.ashfield_central.b.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_central_wb"$/;"	s	array:subway.ashfield.ashfield_central_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_east_approach_eb"$/;"	s	array:subway.ashfield.ashfield_east_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_east_approach_wb"$/;"	s	array:subway.ashfield.ashfield_east_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_east_eb"$/;"	s	array:subway.ashfield.ashfield_east_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_east_p3"$/;"	s	array:subway.ashfield.ashfield_east.3.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_east_p4"$/;"	s	array:subway.ashfield.ashfield_east.4.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_east_wb"$/;"	s	array:subway.ashfield.ashfield_east_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_park_approach_eb"$/;"	s	array:subway.ashfield.ashfield_park_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_park_eb"$/;"	s	array:subway.ashfield.ashfield_park_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_park_p4"$/;"	s	array:subway.ashfield.ashfield_park.4.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_park_wb"$/;"	s	array:subway.ashfield.ashfield_park_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_waterfront_approach_eb"$/;"	s	array:subway.ashfield.ashfield_waterfront_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_waterfront_approach_wb"$/;"	s	array:subway.ashfield.ashfield_waterfront_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_waterfront_eb"$/;"	s	array:subway.ashfield.ashfield_waterfront_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_waterfront_p1"$/;"	s	array:subway.ashfield.ashfield_waterfront.1.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_waterfront_p2"$/;"	s	array:subway.ashfield.ashfield_waterfront.2.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_waterfront_wb"$/;"	s	array:subway.ashfield.ashfield_waterfront_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_west_approach_wb"$/;"	s	array:subway.ashfield.ashfield_west_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_west_eb"$/;"	s	array:subway.ashfield.ashfield_west_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_west_p3"$/;"	s	array:subway.ashfield.ashfield_west.3.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/ashfield_west_wb"$/;"	s	array:subway.ashfield.ashfield_west_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/clinton_mall_approach_eb"$/;"	s	array:subway.ashfield.clinton_mall_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/clinton_mall_approach_wb"$/;"	s	array:subway.ashfield.clinton_mall_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/clinton_mall_eb"$/;"	s	array:subway.ashfield.clinton_mall_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/clinton_mall_p1"$/;"	s	array:subway.ashfield.clinton_mall.1.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/clinton_mall_p2"$/;"	s	array:subway.ashfield.clinton_mall.2.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/clinton_mall_wb"$/;"	s	array:subway.ashfield.clinton_mall_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/genmar_stadium_approach_eb"$/;"	s	array:subway.ashfield.genmar_stadium_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/genmar_stadium_approach_wb"$/;"	s	array:subway.ashfield.genmar_stadium_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/genmar_stadium_eb"$/;"	s	array:subway.ashfield.genmar_stadium_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/genmar_stadium_p1"$/;"	s	array:subway.ashfield.genmar_stadium.1.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/genmar_stadium_p2"$/;"	s	array:subway.ashfield.genmar_stadium.2.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/ashfield\/genmar_stadium_wb"$/;"	s	array:subway.ashfield.genmar_stadium_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/ashfield_west_approach"$/;"	s	array:subway.city.ashfield_west_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/ashfield_west_eb"$/;"	s	array:subway.city.ashfield_west_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/ashfield_west_standing"$/;"	s	array:subway.city.ashfield_west_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/ashfield_west_wb"$/;"	s	array:subway.city.ashfield_west_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/clinton_mall_approach"$/;"	s	array:subway.city.clinton_mall_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/clinton_mall_eb"$/;"	s	array:subway.city.clinton_mall_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/clinton_mall_standing"$/;"	s	array:subway.city.clinton_mall_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/clinton_mall_wb"$/;"	s	array:subway.city.clinton_mall_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/dawson_approach"$/;"	s	array:subway.city.dawson_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/dawson_eb"$/;"	s	array:subway.city.dawson_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/dawson_standing"$/;"	s	array:subway.city.dawson_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/dawson_wb"$/;"	s	array:subway.city.dawson_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/downtown_approach"$/;"	s	array:subway.city.downtown_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/downtown_eb"$/;"	s	array:subway.city.downtown_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/downtown_standing"$/;"	s	array:subway.city.downtown_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/downtown_wb"$/;"	s	array:subway.city.downtown_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/eagle_stadium_approach"$/;"	s	array:subway.city.eagle_stadium_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/eagle_stadium_eb"$/;"	s	array:subway.city.eagle_stadium_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/eagle_stadium_standing"$/;"	s	array:subway.city.eagle_stadium_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/eagle_stadium_wb"$/;"	s	array:subway.city.eagle_stadium_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/genmar_stadium_approach"$/;"	s	array:subway.city.genmar_stadium_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/genmar_stadium_eb"$/;"	s	array:subway.city.genmar_stadium_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/genmar_stadium_standing"$/;"	s	array:subway.city.genmar_stadium_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/genmar_stadium_wb"$/;"	s	array:subway.city.genmar_stadium_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/georgetown_interchange_approach"$/;"	s	array:subway.city.georgetown_interchange_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/georgetown_interchange_eb"$/;"	s	array:subway.city.georgetown_interchange_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/georgetown_interchange_standing"$/;"	s	array:subway.city.georgetown_interchange_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/georgetown_interchange_wb"$/;"	s	array:subway.city.georgetown_interchange_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/komplex_approach"$/;"	s	array:subway.city.komplex_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/komplex_eb"$/;"	s	array:subway.city.komplex_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/komplex_standing"$/;"	s	array:subway.city.komplex_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/komplex_wb"$/;"	s	array:subway.city.komplex_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/market_approach"$/;"	s	array:subway.city.market_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/market_eb"$/;"	s	array:subway.city.market_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/market_standing"$/;"	s	array:subway.city.market_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/market_wb"$/;"	s	array:subway.city.market_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/old_georgetown_approach"$/;"	s	array:subway.city.old_georgetown_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/old_georgetown_eb"$/;"	s	array:subway.city.old_georgetown_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/old_georgetown_standing"$/;"	s	array:subway.city.old_georgetown_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/old_georgetown_wb"$/;"	s	array:subway.city.old_georgetown_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/riverwood_approach"$/;"	s	array:subway.city.riverwood_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/riverwood_eb"$/;"	s	array:subway.city.riverwood_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/riverwood_standing"$/;"	s	array:subway.city.riverwood_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/riverwood_wb"$/;"	s	array:subway.city.riverwood_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/union_approach"$/;"	s	array:subway.city.union_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/union_eb"$/;"	s	array:subway.city.union_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/union_standing"$/;"	s	array:subway.city.union_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/union_wb"$/;"	s	array:subway.city.union_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/whitestone_north_approach"$/;"	s	array:subway.city.whitestone_north_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/whitestone_north_eb"$/;"	s	array:subway.city.whitestone_north_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/whitestone_north_standing"$/;"	s	array:subway.city.whitestone_north_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/whitestone_north_wb"$/;"	s	array:subway.city.whitestone_north_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/whitestone_south_approach"$/;"	s	array:subway.city.whitestone_south_approach.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/whitestone_south_eb"$/;"	s	array:subway.city.whitestone_south_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/whitestone_south_standing"$/;"	s	array:subway.city.whitestone_south_standing.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/city\/whitestone_south_wb"$/;"	s	array:subway.city.whitestone_south_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/barons_bar_approach_eb"  $/;"	s	array:subway.harbour.barons_bar_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/barons_bar_approach_eb_ext"$/;"	s	array:subway.harbour.barons_bar_approach_eb.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/barons_bar_approach_wb"  $/;"	s	array:subway.harbour.barons_bar_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/barons_bar_eb"  $/;"	s	array:subway.harbour.barons_bar_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/barons_bar_eb_ext"$/;"	s	array:subway.harbour.barons_bar_eb.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/barons_bar_p1"$/;"	s	array:subway.harbour.barons_bar.1.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/barons_bar_p2"$/;"	s	array:subway.harbour.barons_bar.2.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/barons_bar_p2_ext"$/;"	s	array:subway.harbour.barons_bar.2.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/barons_bar_wb"  $/;"	s	array:subway.harbour.barons_bar_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/bridge_street_approach_eb"$/;"	s	array:subway.harbour.bridge_street_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/bridge_street_approach_eb_ext"$/;"	s	array:subway.harbour.bridge_street_approach_eb.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/bridge_street_approach_wb"$/;"	s	array:subway.harbour.bridge_street_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/bridge_street_approach_wb_ext"$/;"	s	array:subway.harbour.bridge_street_approach_wb.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/bridge_street_eb"$/;"	s	array:subway.harbour.bridge_street_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/bridge_street_eb_ext"$/;"	s	array:subway.harbour.bridge_street_eb.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/bridge_street_p3"$/;"	s	array:subway.harbour.bridge_street.3.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/bridge_street_p4"$/;"	s	array:subway.harbour.bridge_street.4.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/bridge_street_p4_ext"$/;"	s	array:subway.harbour.bridge_street.4.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/bridge_street_wb"$/;"	s	array:subway.harbour.bridge_street_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/fort_franklin_approach_eb"$/;"	s	array:subway.harbour.fort_franklin_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/fort_franklin_approach_eb_ext"$/;"	s	array:subway.harbour.fort_franklin_approach_eb.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/fort_franklin_approach_wb"$/;"	s	array:subway.harbour.fort_franklin_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/fort_franklin_eb"$/;"	s	array:subway.harbour.fort_franklin_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/fort_franklin_eb_ext"$/;"	s	array:subway.harbour.fort_franklin_eb.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/fort_franklin_p3"$/;"	s	array:subway.harbour.fort_franklin.3.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/fort_franklin_p4"$/;"	s	array:subway.harbour.fort_franklin.4.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/fort_franklin_p4_ext"$/;"	s	array:subway.harbour.fort_franklin.4.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/fort_franklin_wb"$/;"	s	array:subway.harbour.fort_franklin_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/hall_street_approach_eb"$/;"	s	array:subway.harbour.hall_street_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/hall_street_approach_wb"$/;"	s	array:subway.harbour.hall_street_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/hall_street_eb"$/;"	s	array:subway.harbour.hall_street_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/hall_street_p3"$/;"	s	array:subway.harbour.hall_street.3.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/hall_street_p4"$/;"	s	array:subway.harbour.hall_street.4.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/hall_street_wb"$/;"	s	array:subway.harbour.hall_street_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/lincoln_port_p1"$/;"	s	array:subway.harbour.lincoln_port.1.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/mantaro_mall_approach_eb"$/;"	s	array:subway.harbour.mantaro_mall_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/mantaro_mall_approach_wb"$/;"	s	array:subway.harbour.mantaro_mall_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/mantaro_mall_eb"$/;"	s	array:subway.harbour.mantaro_mall_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/mantaro_mall_p3"$/;"	s	array:subway.harbour.mantaro_mall.3.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/mantaro_mall_p4"$/;"	s	array:subway.harbour.mantaro_mall.4.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/mantaro_mall_wb"$/;"	s	array:subway.harbour.mantaro_mall_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/river_city_approach_eb"$/;"	s	array:subway.harbour.river_city_approach_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/river_city_eb_terminating"$/;"	s	array:subway.harbour.river_city_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/river_city_pa"$/;"	s	array:subway.harbour.river_city.a.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/river_city_pb"$/;"	s	array:subway.harbour.river_city.b.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/river_city_wb"$/;"	s	array:subway.harbour.river_city_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/westwood_approach_wb"$/;"	s	array:subway.harbour.westwood_approach_wb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/westwood_eb"$/;"	s	array:subway.harbour.westwood_eb.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/westwood_eb_ext"$/;"	s	array:subway.harbour.westwood_eb.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/westwood_p1"$/;"	s	array:subway.harbour.westwood.1.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/westwood_p2"$/;"	s	array:subway.harbour.westwood.2.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/harbour\/westwood_p2_ext"$/;"	s	array:subway.harbour.westwood.2.ext.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/trains\/k_stock\/class_387_close"$/;"	s	array:subway.trains.k_stock.doors_close.sounds
+0	pack/assets/greenfield/sounds.json	/^            "greenfield:subway\/trains\/k_stock\/class_387_open"$/;"	s	array:subway.trains.k_stock.doors_open.sounds
+ashfield_line_k_stock	pack/assets/mtr/mtr_custom_resources.json	/^        "ashfield_line_k_stock": {$/;"	o	object:custom_trains
+base_train_type	pack/assets/mtr/mtr_custom_resources.json	/^	    "base_train_type": "k_train",$/;"	s	object:custom_trains.linq_class_387
+base_train_type	pack/assets/mtr/mtr_custom_resources.json	/^            "base_train_type": "k_train_tcl",$/;"	s	object:custom_trains.ashfield_line_k_stock
+base_train_type	pack/assets/mtr/mtr_custom_resources.json	/^            "base_train_type": "k_train_tcl",$/;"	s	object:custom_trains.harbour_line_k_stock
+base_train_type	pack/assets/mtr/mtr_custom_resources.json	/^            "base_train_type": "london_underground_1995",$/;"	s	object:custom_trains.central_line_1995_stock
+base_train_type	pack/assets/mtr/mtr_custom_resources.json	/^            "base_train_type": "london_underground_1995",$/;"	s	object:custom_trains.southern_line_1995_stock
+base_train_type	pack/assets/mtr/mtr_custom_resources.json	/^            "base_train_type": "london_underground_1996",$/;"	s	object:custom_trains.city_line_1996_stock
+central_line_1995_stock	pack/assets/mtr/mtr_custom_resources.json	/^        "central_line_1995_stock": {$/;"	o	object:custom_trains
+city_line_1996_stock	pack/assets/mtr/mtr_custom_resources.json	/^        "city_line_1996_stock": {$/;"	o	object:custom_trains
+color	pack/assets/mtr/mtr_custom_resources.json	/^            "color": "#22a9dd",$/;"	s	object:custom_trains.harbour_line_k_stock
+color	pack/assets/mtr/mtr_custom_resources.json	/^            "color": "#9040D0",$/;"	s	object:custom_trains.central_line_1995_stock
+color	pack/assets/mtr/mtr_custom_resources.json	/^            "color": "#ef233c",$/;"	s	object:custom_trains.southern_line_1995_stock
+color	pack/assets/mtr/mtr_custom_resources.json	/^            "color": "#ff5000",$/;"	s	object:custom_trains.ashfield_line_k_stock
+color	pack/assets/mtr/mtr_custom_resources.json	/^            "color": "#ffb110",$/;"	s	object:custom_trains.city_line_1996_stock
+custom_trains	pack/assets/mtr/mtr_custom_resources.json	/^    "custom_trains": {$/;"	o
+harbour_line_k_stock	pack/assets/mtr/mtr_custom_resources.json	/^	"harbour_line_k_stock": {$/;"	o	object:custom_trains
+linq_class_387	pack/assets/mtr/mtr_custom_resources.json	/^	"linq_class_387": {$/;"	o	object:custom_trains
+name	pack/assets/mtr/mtr_custom_resources.json	/^	    "name": "Class 387 (Linq)",$/;"	s	object:custom_trains.linq_class_387
+name	pack/assets/mtr/mtr_custom_resources.json	/^            "name": "1995 Stock (GTA - Central Line)",$/;"	s	object:custom_trains.central_line_1995_stock
+name	pack/assets/mtr/mtr_custom_resources.json	/^            "name": "1995 Stock (GTA - Southern Line)",$/;"	s	object:custom_trains.southern_line_1995_stock
+name	pack/assets/mtr/mtr_custom_resources.json	/^            "name": "1996 Stock (GTA - City Line)",$/;"	s	object:custom_trains.city_line_1996_stock
+name	pack/assets/mtr/mtr_custom_resources.json	/^            "name": "K Stock (GTA - Ashfield Line)",$/;"	s	object:custom_trains.ashfield_line_k_stock
+name	pack/assets/mtr/mtr_custom_resources.json	/^            "name": "K Stock (GTA - Harbour Line)",$/;"	s	object:custom_trains.harbour_line_k_stock
+sounds	pack/assets/greenfield/sounds.json	/^    	"sounds": [$/;"	a	object:subway.harbour.lincoln_port.1
+sounds	pack/assets/greenfield/sounds.json	/^    	"sounds": [$/;"	a	object:subway.harbour.lincoln_port_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^    	"sounds": [$/;"	a	object:subway.harbour.lincoln_port_wb
+sounds	pack/assets/greenfield/sounds.json	/^    	"sounds": [$/;"	a	object:subway.harbour.westwood_wb
+sounds	pack/assets/greenfield/sounds.json	/^    	"sounds": [$/;"	a	object:subway.stations.whitestone_south.city_line_eb
+sounds	pack/assets/greenfield/sounds.json	/^    	"sounds": [$/;"	a	object:subway.stations.whitestone_south.city_line_wb
+sounds	pack/assets/greenfield/sounds.json	/^    	"sounds": [$/;"	a	object:subway.stations.whitestone_south.southern_line_eb
+sounds	pack/assets/greenfield/sounds.json	/^    	"sounds": [$/;"	a	object:subway.stations.whitestone_south.southern_line_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_central.a
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_central.b
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_central_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_central_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_central_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_central_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_east.3
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_east.4
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_east_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_east_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_east_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_east_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_park.4
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_park_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_park_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_park_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_waterfront.1
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_waterfront.2
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_waterfront_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_waterfront_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_waterfront_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_waterfront_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_west.3
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_west_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_west_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.ashfield_west_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.clinton_mall.1
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.clinton_mall.2
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.clinton_mall_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.clinton_mall_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.clinton_mall_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.clinton_mall_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.genmar_stadium.1
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.genmar_stadium.2
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.genmar_stadium_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.genmar_stadium_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.genmar_stadium_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.ashfield.genmar_stadium_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.ashfield_west_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.ashfield_west_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.ashfield_west_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.ashfield_west_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.clinton_mall_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.clinton_mall_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.clinton_mall_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.clinton_mall_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.dawson_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.dawson_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.dawson_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.dawson_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.downtown_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.downtown_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.downtown_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.downtown_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.eagle_stadium_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.eagle_stadium_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.eagle_stadium_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.eagle_stadium_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.genmar_stadium_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.genmar_stadium_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.genmar_stadium_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.genmar_stadium_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.georgetown_interchange_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.georgetown_interchange_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.georgetown_interchange_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.georgetown_interchange_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.komplex_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.komplex_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.komplex_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.komplex_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.market_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.market_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.market_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.market_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.old_georgetown_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.old_georgetown_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.old_georgetown_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.old_georgetown_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.riverwood_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.riverwood_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.riverwood_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.riverwood_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.union_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.union_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.union_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.union_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.whitestone_north_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.whitestone_north_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.whitestone_north_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.whitestone_north_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.whitestone_south_approach
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.whitestone_south_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.whitestone_south_standing
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.city.whitestone_south_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.barons_bar.1
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.barons_bar.2
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.barons_bar.2.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.barons_bar_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.barons_bar_approach_eb.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.barons_bar_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.barons_bar_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.barons_bar_eb.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.barons_bar_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.bridge_street.3
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.bridge_street.4
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.bridge_street.4.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.bridge_street_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.bridge_street_approach_eb.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.bridge_street_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.bridge_street_approach_wb.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.bridge_street_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.bridge_street_eb.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.bridge_street_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.fort_franklin.3
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.fort_franklin.4
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.fort_franklin.4.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.fort_franklin_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.fort_franklin_approach_eb.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.fort_franklin_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.fort_franklin_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.fort_franklin_eb.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.fort_franklin_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.hall_street.3
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.hall_street.4
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.hall_street_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.hall_street_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.hall_street_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.hall_street_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.mantaro_mall.3
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.mantaro_mall.4
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.mantaro_mall_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.mantaro_mall_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.mantaro_mall_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.mantaro_mall_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.river_city.a
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.river_city.b
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.river_city_approach_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.river_city_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.river_city_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.westwood.1
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.westwood.2
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.westwood.2.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.westwood_approach_wb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.westwood_eb
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.harbour.westwood_eb.ext
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.trains.k_stock.doors_close
+sounds	pack/assets/greenfield/sounds.json	/^        "sounds": [$/;"	a	object:subway.trains.k_stock.doors_open
+southern_line_1995_stock	pack/assets/mtr/mtr_custom_resources.json	/^        "southern_line_1995_stock": {$/;"	o	object:custom_trains
+subway.ashfield.ashfield_central.a	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_central.a": {$/;"	o
+subway.ashfield.ashfield_central.b	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_central.b": {$/;"	o
+subway.ashfield.ashfield_central_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_central_approach_eb": {$/;"	o
+subway.ashfield.ashfield_central_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_central_approach_wb": {$/;"	o
+subway.ashfield.ashfield_central_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_central_eb": {$/;"	o
+subway.ashfield.ashfield_central_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_central_wb": {$/;"	o
+subway.ashfield.ashfield_east.3	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_east.3": {$/;"	o
+subway.ashfield.ashfield_east.4	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_east.4": {$/;"	o
+subway.ashfield.ashfield_east_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_east_approach_eb": {$/;"	o
+subway.ashfield.ashfield_east_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_east_approach_wb": {$/;"	o
+subway.ashfield.ashfield_east_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_east_eb": {$/;"	o
+subway.ashfield.ashfield_east_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_east_wb": {$/;"	o
+subway.ashfield.ashfield_park.4	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_park.4": {$/;"	o
+subway.ashfield.ashfield_park_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_park_approach_eb": {$/;"	o
+subway.ashfield.ashfield_park_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_park_eb": {$/;"	o
+subway.ashfield.ashfield_park_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_park_wb": {$/;"	o
+subway.ashfield.ashfield_waterfront.1	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_waterfront.1": {$/;"	o
+subway.ashfield.ashfield_waterfront.2	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_waterfront.2": {$/;"	o
+subway.ashfield.ashfield_waterfront_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_waterfront_approach_eb": {$/;"	o
+subway.ashfield.ashfield_waterfront_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_waterfront_approach_wb": {$/;"	o
+subway.ashfield.ashfield_waterfront_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_waterfront_eb": {$/;"	o
+subway.ashfield.ashfield_waterfront_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_waterfront_wb": {$/;"	o
+subway.ashfield.ashfield_west.3	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_west.3": {$/;"	o
+subway.ashfield.ashfield_west_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_west_approach_wb": {$/;"	o
+subway.ashfield.ashfield_west_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_west_eb": {$/;"	o
+subway.ashfield.ashfield_west_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.ashfield_west_wb": {$/;"	o
+subway.ashfield.clinton_mall.1	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.clinton_mall.1": {$/;"	o
+subway.ashfield.clinton_mall.2	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.clinton_mall.2": {$/;"	o
+subway.ashfield.clinton_mall_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.clinton_mall_approach_eb": {$/;"	o
+subway.ashfield.clinton_mall_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.clinton_mall_approach_wb": {$/;"	o
+subway.ashfield.clinton_mall_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.clinton_mall_eb": {$/;"	o
+subway.ashfield.clinton_mall_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.clinton_mall_wb": {$/;"	o
+subway.ashfield.genmar_stadium.1	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.genmar_stadium.1": {$/;"	o
+subway.ashfield.genmar_stadium.2	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.genmar_stadium.2": {$/;"	o
+subway.ashfield.genmar_stadium_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.genmar_stadium_approach_eb": {$/;"	o
+subway.ashfield.genmar_stadium_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.genmar_stadium_approach_wb": {$/;"	o
+subway.ashfield.genmar_stadium_eb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.genmar_stadium_eb": {$/;"	o
+subway.ashfield.genmar_stadium_wb	pack/assets/greenfield/sounds.json	/^    "subway.ashfield.genmar_stadium_wb": {$/;"	o
+subway.city.ashfield_west_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.ashfield_west_approach" : {$/;"	o
+subway.city.ashfield_west_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.ashfield_west_eb" : {$/;"	o
+subway.city.ashfield_west_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.ashfield_west_standing" : {$/;"	o
+subway.city.ashfield_west_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.ashfield_west_wb" : {$/;"	o
+subway.city.clinton_mall_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.clinton_mall_approach": {$/;"	o
+subway.city.clinton_mall_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.clinton_mall_eb": {$/;"	o
+subway.city.clinton_mall_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.clinton_mall_standing": {$/;"	o
+subway.city.clinton_mall_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.clinton_mall_wb": {$/;"	o
+subway.city.dawson_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.dawson_approach": {$/;"	o
+subway.city.dawson_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.dawson_eb": {$/;"	o
+subway.city.dawson_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.dawson_standing": {$/;"	o
+subway.city.dawson_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.dawson_wb": {$/;"	o
+subway.city.downtown_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.downtown_approach": {$/;"	o
+subway.city.downtown_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.downtown_eb": {$/;"	o
+subway.city.downtown_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.downtown_standing": {$/;"	o
+subway.city.downtown_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.downtown_wb": {$/;"	o
+subway.city.eagle_stadium_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.eagle_stadium_approach": {$/;"	o
+subway.city.eagle_stadium_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.eagle_stadium_eb": {$/;"	o
+subway.city.eagle_stadium_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.eagle_stadium_standing": {$/;"	o
+subway.city.eagle_stadium_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.eagle_stadium_wb": {$/;"	o
+subway.city.genmar_stadium_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.genmar_stadium_approach": {$/;"	o
+subway.city.genmar_stadium_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.genmar_stadium_eb": {$/;"	o
+subway.city.genmar_stadium_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.genmar_stadium_standing": {$/;"	o
+subway.city.genmar_stadium_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.genmar_stadium_wb": {$/;"	o
+subway.city.georgetown_interchange_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.georgetown_interchange_approach": {$/;"	o
+subway.city.georgetown_interchange_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.georgetown_interchange_eb": {$/;"	o
+subway.city.georgetown_interchange_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.georgetown_interchange_standing": {$/;"	o
+subway.city.georgetown_interchange_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.georgetown_interchange_wb": {$/;"	o
+subway.city.komplex_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.komplex_approach": {$/;"	o
+subway.city.komplex_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.komplex_eb": {$/;"	o
+subway.city.komplex_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.komplex_standing": {$/;"	o
+subway.city.komplex_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.komplex_wb": {$/;"	o
+subway.city.market_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.market_approach": {$/;"	o
+subway.city.market_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.market_eb": {$/;"	o
+subway.city.market_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.market_standing": {$/;"	o
+subway.city.market_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.market_wb": {$/;"	o
+subway.city.old_georgetown_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.old_georgetown_approach": {$/;"	o
+subway.city.old_georgetown_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.old_georgetown_eb": {$/;"	o
+subway.city.old_georgetown_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.old_georgetown_standing": {$/;"	o
+subway.city.old_georgetown_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.old_georgetown_wb": {$/;"	o
+subway.city.riverwood_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.riverwood_approach": {$/;"	o
+subway.city.riverwood_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.riverwood_eb": {$/;"	o
+subway.city.riverwood_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.riverwood_standing": {$/;"	o
+subway.city.riverwood_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.riverwood_wb": {$/;"	o
+subway.city.union_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.union_approach": {$/;"	o
+subway.city.union_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.union_eb": {$/;"	o
+subway.city.union_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.union_standing": {$/;"	o
+subway.city.union_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.union_wb": {$/;"	o
+subway.city.whitestone_north_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.whitestone_north_approach": {$/;"	o
+subway.city.whitestone_north_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.whitestone_north_eb": {$/;"	o
+subway.city.whitestone_north_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.whitestone_north_standing": {$/;"	o
+subway.city.whitestone_north_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.whitestone_north_wb": {$/;"	o
+subway.city.whitestone_south_approach	pack/assets/greenfield/sounds.json	/^    "subway.city.whitestone_south_approach": {$/;"	o
+subway.city.whitestone_south_eb	pack/assets/greenfield/sounds.json	/^    "subway.city.whitestone_south_eb": {$/;"	o
+subway.city.whitestone_south_standing	pack/assets/greenfield/sounds.json	/^    "subway.city.whitestone_south_standing": {$/;"	o
+subway.city.whitestone_south_wb	pack/assets/greenfield/sounds.json	/^    "subway.city.whitestone_south_wb": {$/;"	o
+subway.harbour.barons_bar.1	pack/assets/greenfield/sounds.json	/^    "subway.harbour.barons_bar.1": {$/;"	o
+subway.harbour.barons_bar.2	pack/assets/greenfield/sounds.json	/^    "subway.harbour.barons_bar.2": {$/;"	o
+subway.harbour.barons_bar.2.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.barons_bar.2.ext": {$/;"	o
+subway.harbour.barons_bar_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.barons_bar_approach_eb": {$/;"	o
+subway.harbour.barons_bar_approach_eb.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.barons_bar_approach_eb.ext": {$/;"	o
+subway.harbour.barons_bar_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.barons_bar_approach_wb": {$/;"	o
+subway.harbour.barons_bar_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.barons_bar_eb": {$/;"	o
+subway.harbour.barons_bar_eb.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.barons_bar_eb.ext": {$/;"	o
+subway.harbour.barons_bar_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.barons_bar_wb": {$/;"	o
+subway.harbour.bridge_street.3	pack/assets/greenfield/sounds.json	/^    "subway.harbour.bridge_street.3": {$/;"	o
+subway.harbour.bridge_street.4	pack/assets/greenfield/sounds.json	/^    "subway.harbour.bridge_street.4": {$/;"	o
+subway.harbour.bridge_street.4.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.bridge_street.4.ext": {$/;"	o
+subway.harbour.bridge_street_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.bridge_street_approach_eb": {$/;"	o
+subway.harbour.bridge_street_approach_eb.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.bridge_street_approach_eb.ext": {$/;"	o
+subway.harbour.bridge_street_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.bridge_street_approach_wb": {$/;"	o
+subway.harbour.bridge_street_approach_wb.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.bridge_street_approach_wb.ext": {$/;"	o
+subway.harbour.bridge_street_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.bridge_street_eb": {$/;"	o
+subway.harbour.bridge_street_eb.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.bridge_street_eb.ext": {$/;"	o
+subway.harbour.bridge_street_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.bridge_street_wb": {$/;"	o
+subway.harbour.fort_franklin.3	pack/assets/greenfield/sounds.json	/^    "subway.harbour.fort_franklin.3": {$/;"	o
+subway.harbour.fort_franklin.4	pack/assets/greenfield/sounds.json	/^    "subway.harbour.fort_franklin.4": {$/;"	o
+subway.harbour.fort_franklin.4.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.fort_franklin.4.ext": {$/;"	o
+subway.harbour.fort_franklin_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.fort_franklin_approach_eb": {$/;"	o
+subway.harbour.fort_franklin_approach_eb.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.fort_franklin_approach_eb.ext": {$/;"	o
+subway.harbour.fort_franklin_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.fort_franklin_approach_wb": {$/;"	o
+subway.harbour.fort_franklin_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.fort_franklin_eb": {$/;"	o
+subway.harbour.fort_franklin_eb.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.fort_franklin_eb.ext": {$/;"	o
+subway.harbour.fort_franklin_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.fort_franklin_wb": {$/;"	o
+subway.harbour.hall_street.3	pack/assets/greenfield/sounds.json	/^    "subway.harbour.hall_street.3": {$/;"	o
+subway.harbour.hall_street.4	pack/assets/greenfield/sounds.json	/^    "subway.harbour.hall_street.4": {$/;"	o
+subway.harbour.hall_street_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.hall_street_approach_eb": {$/;"	o
+subway.harbour.hall_street_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.hall_street_approach_wb": {$/;"	o
+subway.harbour.hall_street_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.hall_street_eb": {$/;"	o
+subway.harbour.hall_street_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.hall_street_wb": {$/;"	o
+subway.harbour.lincoln_port.1	pack/assets/greenfield/sounds.json	/^    "subway.harbour.lincoln_port.1": {$/;"	o
+subway.harbour.lincoln_port_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.lincoln_port_approach_eb": {$/;"	o
+subway.harbour.lincoln_port_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.lincoln_port_wb": {$/;"	o
+subway.harbour.mantaro_mall.3	pack/assets/greenfield/sounds.json	/^    "subway.harbour.mantaro_mall.3": {$/;"	o
+subway.harbour.mantaro_mall.4	pack/assets/greenfield/sounds.json	/^    "subway.harbour.mantaro_mall.4": {$/;"	o
+subway.harbour.mantaro_mall_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.mantaro_mall_approach_eb": {$/;"	o
+subway.harbour.mantaro_mall_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.mantaro_mall_approach_wb": {$/;"	o
+subway.harbour.mantaro_mall_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.mantaro_mall_eb": {$/;"	o
+subway.harbour.mantaro_mall_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.mantaro_mall_wb": {$/;"	o
+subway.harbour.river_city.a	pack/assets/greenfield/sounds.json	/^    "subway.harbour.river_city.a": {$/;"	o
+subway.harbour.river_city.b	pack/assets/greenfield/sounds.json	/^    "subway.harbour.river_city.b": {$/;"	o
+subway.harbour.river_city_approach_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.river_city_approach_eb": {$/;"	o
+subway.harbour.river_city_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.river_city_eb": {$/;"	o
+subway.harbour.river_city_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.river_city_wb": {$/;"	o
+subway.harbour.westwood.1	pack/assets/greenfield/sounds.json	/^    "subway.harbour.westwood.1": {$/;"	o
+subway.harbour.westwood.2	pack/assets/greenfield/sounds.json	/^    "subway.harbour.westwood.2": {$/;"	o
+subway.harbour.westwood.2.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.westwood.2.ext": {$/;"	o
+subway.harbour.westwood_approach_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.westwood_approach_wb": {$/;"	o
+subway.harbour.westwood_eb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.westwood_eb": {$/;"	o
+subway.harbour.westwood_eb.ext	pack/assets/greenfield/sounds.json	/^    "subway.harbour.westwood_eb.ext": {$/;"	o
+subway.harbour.westwood_wb	pack/assets/greenfield/sounds.json	/^    "subway.harbour.westwood_wb": {$/;"	o
+subway.stations.whitestone_south.city_line_eb	pack/assets/greenfield/sounds.json	/^    "subway.stations.whitestone_south.city_line_eb": {$/;"	o
+subway.stations.whitestone_south.city_line_wb	pack/assets/greenfield/sounds.json	/^    "subway.stations.whitestone_south.city_line_wb": {$/;"	o
+subway.stations.whitestone_south.southern_line_eb	pack/assets/greenfield/sounds.json	/^    "subway.stations.whitestone_south.southern_line_eb": {$/;"	o
+subway.stations.whitestone_south.southern_line_wb	pack/assets/greenfield/sounds.json	/^    "subway.stations.whitestone_south.southern_line_wb": {$/;"	o
+subway.trains.k_stock.doors_close	pack/assets/greenfield/sounds.json	/^    "subway.trains.k_stock.doors_close": {$/;"	o
+subway.trains.k_stock.doors_open	pack/assets/greenfield/sounds.json	/^    "subway.trains.k_stock.doors_open": {$/;"	o
+texture_id	pack/assets/mtr/mtr_custom_resources.json	/^	    "texture_id": "mtr:greenfield\/k_train_overground.png"$/;"	s	object:custom_trains.linq_class_387
+texture_id	pack/assets/mtr/mtr_custom_resources.json	/^            "texture_id": "mtr:greenfield\/central_line_1995_stock.png"$/;"	s	object:custom_trains.central_line_1995_stock
+texture_id	pack/assets/mtr/mtr_custom_resources.json	/^            "texture_id": "mtr:greenfield\/city_line_1996_stock.png"$/;"	s	object:custom_trains.city_line_1996_stock
+texture_id	pack/assets/mtr/mtr_custom_resources.json	/^            "texture_id": "mtr:greenfield\/k_train_ashfield_transition.png"$/;"	s	object:custom_trains.ashfield_line_k_stock
+texture_id	pack/assets/mtr/mtr_custom_resources.json	/^            "texture_id": "mtr:greenfield\/k_train_harbour.png"$/;"	s	object:custom_trains.harbour_line_k_stock
+texture_id	pack/assets/mtr/mtr_custom_resources.json	/^            "texture_id": "mtr:greenfield\/southern_line_1995_stock.png"$/;"	s	object:custom_trains.southern_line_1995_stock

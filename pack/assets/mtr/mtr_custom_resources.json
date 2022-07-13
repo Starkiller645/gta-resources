@@ -1,0 +1,40 @@
+{
+    "custom_trains": {
+        "city_line_1996_stock": {
+            "name": "1996 Stock (GTA - City Line)",
+            "color": "#ffb110",
+            "base_train_type": "london_underground_1996",
+            "texture_id": "mtr:greenfield/city_line_1996_stock.png"
+        },
+        "central_line_1995_stock": {
+            "name": "1995 Stock (GTA - Central Line)",
+            "color": "#9040D0",
+            "base_train_type": "london_underground_1995",
+            "texture_id": "mtr:greenfield/central_line_1995_stock.png"
+        },
+        "southern_line_1995_stock": {
+            "name": "1995 Stock (GTA - Southern Line)",
+            "color": "#ef233c",
+            "base_train_type": "london_underground_1995",
+            "texture_id": "mtr:greenfield/southern_line_1995_stock.png"
+        },
+        "ashfield_line_k_stock": {
+            "name": "K Stock (GTA - Ashfield Line)",
+            "color": "#ff5000",
+            "base_train_type": "k_train_tcl",
+            "texture_id": "mtr:greenfield/k_train_ashfield_transition.png"
+        },
+	"linq_class_387": {
+	    "name": "Class 387 (Linq)",
+	    "base_train_type": "k_train",
+	    "texture_id": "mtr:greenfield/k_train_overground.png"
+	},
+	"harbour_line_k_stock": {
+            "name": "K Stock (GTA - Harbour Line)",
+            "color": "#22a9dd",
+            "base_train_type": "k_train_tcl",
+            "texture_id": "mtr:greenfield/k_train_harbour.png"
+        }
+
+    }
+}
