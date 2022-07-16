@@ -1,7 +1,7 @@
 #!/bin/bash
 RWD=$(pwd)
 echo "[gta-resources] Zipping files..."
-cd ~/Git/gta-resources/pack
+cd ~/Git/gta/pack
 zip -r ../gta-resources.zip assets pack.mcmeta
 cd ../
 cp gta-resources.zip ~/.minecraft/resourcepacks/
